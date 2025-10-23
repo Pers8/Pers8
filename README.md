@@ -18,11 +18,11 @@
 ---
 
 ## About Me
-I'm a Computer Engineering student at **Concordia University** interested in **mathematics**, **machine learning**, **data science**, and **software engineering**.
+I'm a **Computer Engineering student at Concordia University**, interested in **mathematics**, **machine learning**, **data science**, and **software engineering**.
 
 **Currently focusing on:**
 - Machine Learning & Data Science  
-- Front-end Development & Design
+- Front-end Development & UI Design
 
 ---
 
@@ -34,18 +34,18 @@ I'm a Computer Engineering student at **Concordia University** interested in **m
 ---
 
 ## Featured Projects
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <a href="https://github.com/Pers8/spritesheet-generator">
     <img
       height="150"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Pers8&repo=spritesheet-generator&theme=transparent&border_color=30363d&show_owner=false"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Pers8&repo=spritesheet-generator&theme=tokyonight&border_color=1f1f1f&hide_border=false&show_owner=false"
       alt="spritesheet-generator"
     />
   </a>
   <a href="https://github.com/Pers8/obsisync">
     <img
       height="150"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Pers8&repo=obsisync&theme=transparent&border_color=30363d&show_owner=false"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Pers8&repo=obsisync&theme=tokyonight&border_color=1f1f1f&hide_border=false&show_owner=false"
       alt="obsisync"
     />
   </a>
@@ -60,31 +60,12 @@ I'm a Computer Engineering student at **Concordia University** interested in **m
 <div align="center">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=Pers8&show_icons=true&theme=transparent&rank_icon=github&border_color=30363d"
+    src="https://github-readme-stats.vercel.app/api?username=Pers8&show_icons=true&rank_icon=github&theme=tokyonight&border_color=1f1f1f&hide_border=false"
     alt="GitHub Stats"
   />
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pers8&layout=compact&theme=transparent&border_color=30363d"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pers8&layout=compact&theme=tokyonight&border_color=1f1f1f&hide_border=false"
     alt="Top Languages"
-  />
-</div>
-
-<div align="center">
-  <img
-    height="165"
-    src="https://streak-stats.demolab.com?user=Pers8&theme=transparent&hide_border=false&border=30363d"
-    alt="GitHub Streak"
-  />
-</div>
-
----
-
-## Highlights
-<div align="center">
-  <img
-    width="840"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Pers8&theme=github-compact&hide_border=true"
-    alt="Activity Graph"
   />
 </div>
