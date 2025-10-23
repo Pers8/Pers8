@@ -18,7 +18,7 @@
 ---
 
 ## About Me
-I'm a **Computer Engineering student at Concordia University** interested in **mathematics**, **machine learning**, **data science**, and **software engineering**.
+I'm a Computer Engineering student at **Concordia University** interested in **mathematics**, **machine learning**, **data science**, and **software engineering**.
 
 **Currently focusing on:**
 - Machine Learning & Data Science  
