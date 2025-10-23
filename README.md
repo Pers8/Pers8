@@ -16,7 +16,7 @@
 ---
 
 ## About
-I'm a Computer Engineering student at **Concordia University** passionate about math, machine learning, data science, software engineering and front-end development 
+I'm a Computer Engineering student at **Concordia University** passionate about math, machine learning, data science, software engineering and front-end development. 
 
 Currently, I’m focusing on:  
 - **Machine Learning & Data Science**
