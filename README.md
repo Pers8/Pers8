@@ -15,45 +15,38 @@
 
 ---
 
-## 📖 About
-I'm a Computer Engineering student at **Concordia University** passionate about the intersection of math, machine learning, data science, software engineering and front-end development 
+## About
+I'm a Computer Engineering student at **Concordia University** passionate about math, machine learning, data science, software engineering and front-end development 
 
 Currently, I’m focusing on:  
-- **Machine Learning & Data Science** where I work on model training, evaluation and real-world applications
-- **Front-end & Design** where I build intuitive, performant and visually refined interfaces
-
-I enjoy combining math with hands-on software to create systems that are both useful and elegant
+- **Machine Learning & Data Science**
+- **Front-end & Design**
 
 ---
 
-## 🌱 Focus Areas
-- **Software Engineering**  
-- **Front-end Engineering**  
-- **Machine Learning**
-- **Data Science**
-
----
-
-## 🧰 Tech Stack
+## Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,react,electron,tailwind,nodejs,sqlite,html,css,tensorflow,sklearn,pandas,numpy,git,github&perline=8" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 <p align="center">
   <a href="https://github.com/Pers8/spritesheet-generator">
     <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Pers8&repo=spritesheet-generator&theme=tokyonight&border_color=30363d" />
   </a>
+  <a href="https://github.com/Pers8/obsisync">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Pers8&repo=obsisync&theme=tokyonight&border_color=30363d" />
+  </a>
 </p>
 
 **Reads / Write-ups**
-- ResNet vs VGG16 on CIFAR-10 (methods + stats): <a href="https://medium.com/@peres/resnet-vs-vgg16-which-cnn-architecture-performs-better-on-cifar-10-b6d6bb6e43c4">Medium article</a>
+- ResNet vs VGG16 on CIFAR-10: <a href="https://medium.com/@peres/resnet-vs-vgg16-which-cnn-architecture-performs-better-on-cifar-10-b6d6bb6e43c4">Medium article</a>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="center">
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=Pers8&show_icons=true&rank_icon=github&theme=tokyonight" media="(prefers-color-scheme: dark)" />
@@ -78,7 +71,7 @@ I enjoy combining math with hands-on software to create systems that are both us
 
 ---
 
-## 🔝 Highlights
+## Highlights
 <p align="center">
   <img width="840"
        src="https://github-readme-activity-graph.vercel.app/graph?username=Pers8&theme=tokyo-night&hide_border=true" />
